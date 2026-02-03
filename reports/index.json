@@ -28,62 +28,6 @@
     }
   },
   {
-    "id": "20260202-210924-hasf",
-    "title": "Paralda",
-    "commanders": [
-      "Paralda"
-    ],
-    "dateStart": "2026-02-03T02:09:24.000Z",
-    "dateEnd": "2026-02-03T03:19:21.000Z",
-    "dateLabel": "2/2/2026, 9:09:24 PM - 2/2/2026, 10:19:21 PM",
-    "url": "https://pyrogw2.github.io/pyrologs/?report=20260202-210924-hasf",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Alpine Borderlands",
-          "value": 15,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "World vs World - Blue Alpine Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
-      ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 46
-    }
-  },
-  {
-    "id": "20260202-210924-1drq",
-    "title": "Paralda",
-    "commanders": [
-      "Paralda"
-    ],
-    "dateStart": "2026-02-03T02:09:24.000Z",
-    "dateEnd": "2026-02-03T03:19:21.000Z",
-    "dateLabel": "2/2/2026, 9:09:24 PM - 2/2/2026, 10:19:21 PM",
-    "url": "https://pyrogw2.github.io/pyrologs/?report=20260202-210924-1drq",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Alpine Borderlands",
-          "value": 15,
-          "color": "#64748b"
-        },
-        {
-          "name": "World vs World - Blue Alpine Borderlands",
-          "value": 1,
-          "color": "#64748b"
-        }
-      ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 46
-    }
-  },
-  {
     "id": "20260129-210627-1vdr",
     "title": "Paralda",
     "commanders": [
