@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260223-210251-32bx",
+    "title": "Paralda",
+    "commanders": [
+      "Paralda"
+    ],
+    "dateStart": "2026-02-24T02:02:51.000Z",
+    "dateEnd": "2026-02-24T04:05:17.000Z",
+    "dateLabel": "2/23/2026, 9:02:51 PM - 2/23/2026, 11:05:17 PM",
+    "url": "https://pyrogw2.github.io/pyrologs/?report=20260223-210251-32bx",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 41,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 34
+    }
+  },
+  {
     "id": "20260209-210609-js6r",
     "title": "Paralda",
     "commanders": [
