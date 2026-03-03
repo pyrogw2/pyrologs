@@ -1,206 +1,242 @@
-[
-  {
-    "id": "20260226-210937-gza2",
-    "title": "Paralda",
-    "commanders": [
-      "Paralda"
-    ],
-    "dateStart": "2026-02-27T02:09:37.000Z",
-    "dateEnd": "2026-02-27T02:49:17.000Z",
-    "dateLabel": "2/26/2026, 9:09:37 PM - 2/26/2026, 9:49:17 PM",
-    "url": "https://pyrogw2.github.io/pyrologs/?report=20260226-210937-gza2",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 15,
-          "color": "#3b82f6"
-        }
-      ],
-      "avgSquadSize": 27,
-      "avgEnemySize": 31
-    }
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Dark Pearl",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260223-210251-32bx",
-    "title": "Paralda",
-    "commanders": [
-      "Paralda"
-    ],
-    "dateStart": "2026-02-24T02:02:51.000Z",
-    "dateEnd": "2026-02-24T04:05:17.000Z",
-    "dateLabel": "2/23/2026, 9:02:51 PM - 2/23/2026, 11:05:17 PM",
-    "url": "https://pyrogw2.github.io/pyrologs/?report=20260223-210251-32bx",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 41,
-          "color": "#3b82f6"
-        }
+  "entries": [
+    {
+      "id": "20260302-210755-wrsu",
+      "title": "Legion Timebender, Paralda",
+      "commanders": [
+        "Legion Timebender",
+        "Paralda"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 34
-    }
-  },
-  {
-    "id": "20260209-210609-js6r",
-    "title": "Paralda",
-    "commanders": [
-      "Paralda"
-    ],
-    "dateStart": "2026-02-10T02:06:09.000Z",
-    "dateEnd": "2026-02-10T03:52:28.000Z",
-    "dateLabel": "2/9/2026, 9:06:09 PM - 2/9/2026, 10:52:28 PM",
-    "url": "https://pyrogw2.github.io/pyrologs/?report=20260209-210609-js6r",
-    "summary": {
-      "borderlandsPct": 0.64,
-      "mapSlices": [
-        {
-          "name": "Obsidian Sanctum",
-          "value": 9,
-          "color": "#64748b"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 9,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 7,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-03T02:07:55.000Z",
+      "dateEnd": "2026-03-03T05:50:39.000Z",
+      "dateLabel": "3/2/2026, 9:07:55 PM - 3/3/2026, 12:50:39 AM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260302-210755-wrsu",
+      "summary": {
+        "borderlandsPct": 0.05555555555555555,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 41
+      }
+    },
+    {
+      "id": "20260226-210937-gza2",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260205-210813-uihk",
-    "title": "Paralda",
-    "commanders": [
-      "Paralda"
-    ],
-    "dateStart": "2026-02-06T02:08:13.000Z",
-    "dateEnd": "2026-02-06T02:36:21.000Z",
-    "dateLabel": "2/5/2026, 9:08:13 PM - 2/5/2026, 9:36:21 PM",
-    "url": "https://pyrogw2.github.io/pyrologs/?report=20260205-210813-uihk",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 7,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-27T02:09:37.000Z",
+      "dateEnd": "2026-02-27T02:49:17.000Z",
+      "dateLabel": "2/26/2026, 9:09:37 PM - 2/26/2026, 9:49:17 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260226-210937-gza2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 15,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 31
+      }
+    },
+    {
+      "id": "20260223-210251-32bx",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
       ],
-      "avgSquadSize": 30,
-      "avgEnemySize": 53
-    }
-  },
-  {
-    "id": "20260204-011524-7fcc",
-    "title": "Paralda",
-    "commanders": [
-      "Paralda"
-    ],
-    "dateStart": "2026-02-04T06:15:24.083Z",
-    "dateEnd": "2026-02-04T06:15:24.083Z",
-    "dateLabel": "2/4/2026, 1:15:24 AM - 2/4/2026, 1:15:24 AM",
-    "url": "https://pyrogw2.github.io/pyrologs/?report=20260204-011524-7fcc",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-24T02:02:51.000Z",
+      "dateEnd": "2026-02-24T04:05:17.000Z",
+      "dateLabel": "2/23/2026, 9:02:51 PM - 2/23/2026, 11:05:17 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260223-210251-32bx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 41,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 34
+      }
+    },
+    {
+      "id": "20260209-210609-js6r",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 46
-    }
-  },
-  {
-    "id": "20260204-011252-vf54",
-    "title": "Paralda",
-    "commanders": [
-      "Paralda"
-    ],
-    "dateStart": "2026-02-04T06:12:52.221Z",
-    "dateEnd": "2026-02-04T06:12:52.221Z",
-    "dateLabel": "2/4/2026, 1:12:52 AM - 2/4/2026, 1:12:52 AM",
-    "url": "https://pyrogw2.github.io/pyrologs/?report=20260204-011252-vf54",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-10T02:06:09.000Z",
+      "dateEnd": "2026-02-10T03:52:28.000Z",
+      "dateLabel": "2/9/2026, 9:06:09 PM - 2/9/2026, 10:52:28 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260209-210609-js6r",
+      "summary": {
+        "borderlandsPct": 0.64,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 9,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260205-210813-uihk",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 46
-    }
-  },
-  {
-    "id": "20260202-210924-krix",
-    "title": "Paralda",
-    "commanders": [
-      "Paralda"
-    ],
-    "dateStart": "2026-02-03T02:09:24.000Z",
-    "dateEnd": "2026-02-03T03:19:21.000Z",
-    "dateLabel": "2/2/2026, 9:09:24 PM - 2/2/2026, 10:19:21 PM",
-    "url": "https://pyrogw2.github.io/pyrologs/?report=20260202-210924-krix",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Alpine Borderlands",
-          "value": 15,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "World vs World - Blue Alpine Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-06T02:08:13.000Z",
+      "dateEnd": "2026-02-06T02:36:21.000Z",
+      "dateLabel": "2/5/2026, 9:08:13 PM - 2/5/2026, 9:36:21 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260205-210813-uihk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 53
+      }
+    },
+    {
+      "id": "20260204-011524-7fcc",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 46
-    }
-  },
-  {
-    "id": "20260129-210627-1vdr",
-    "title": "Paralda",
-    "commanders": [
-      "Paralda"
-    ],
-    "dateStart": "2026-01-30T02:06:27.000Z",
-    "dateEnd": "2026-01-30T03:27:47.000Z",
-    "dateLabel": "1/29/2026, 9:06:27 PM - 1/29/2026, 10:27:47 PM",
-    "url": "https://pyrogw2.github.io/pyrologs/?report=20260129-210627-1vdr",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 12,
-          "color": "#10b981"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 6,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-04T06:15:24.083Z",
+      "dateEnd": "2026-02-04T06:15:24.083Z",
+      "dateLabel": "2/4/2026, 1:15:24 AM - 2/4/2026, 1:15:24 AM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260204-011524-7fcc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 46
+      }
+    },
+    {
+      "id": "20260204-011252-vf54",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 51
+      "dateStart": "2026-02-04T06:12:52.221Z",
+      "dateEnd": "2026-02-04T06:12:52.221Z",
+      "dateLabel": "2/4/2026, 1:12:52 AM - 2/4/2026, 1:12:52 AM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260204-011252-vf54",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 46
+      }
+    },
+    {
+      "id": "20260202-210924-krix",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-02-03T02:09:24.000Z",
+      "dateEnd": "2026-02-03T03:19:21.000Z",
+      "dateLabel": "2/2/2026, 9:09:24 PM - 2/2/2026, 10:19:21 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260202-210924-krix",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Alpine Borderlands",
+            "value": 15,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "World vs World - Blue Alpine Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 46
+      }
+    },
+    {
+      "id": "20260129-210627-1vdr",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-01-30T02:06:27.000Z",
+      "dateEnd": "2026-01-30T03:27:47.000Z",
+      "dateLabel": "1/29/2026, 9:06:27 PM - 1/29/2026, 10:27:47 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260129-210627-1vdr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#10b981"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 51
+      }
     }
-  }
-]
+  ]
+}
