@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260305-210715-dbd9",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-03-06T02:07:15.000Z",
+      "dateEnd": "2026-03-06T02:57:12.000Z",
+      "dateLabel": "3/5/2026, 9:07:15 PM - 3/5/2026, 9:57:12 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260305-210715-dbd9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260302-210755-wrsu",
       "title": "Legion Timebender, Paralda",
       "commanders": [
