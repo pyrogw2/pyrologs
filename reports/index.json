@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260319-212613-xfmz",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-03-20T01:26:13.000Z",
+      "dateEnd": "2026-03-20T03:05:27.000Z",
+      "dateLabel": "3/19/2026, 9:26:13 PM - 3/19/2026, 11:05:27 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260319-212613-xfmz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 26,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260309-210742-jcbg",
       "title": "Paralda",
       "commanders": [
