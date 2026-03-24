@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260323-210517-vieg",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-03-24T01:05:17.000Z",
+      "dateEnd": "2026-03-24T01:40:40.000Z",
+      "dateLabel": "3/23/2026, 9:05:17 PM - 3/23/2026, 9:40:40 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260323-210517-vieg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260319-212613-xfmz",
       "title": "Paralda",
       "commanders": [
