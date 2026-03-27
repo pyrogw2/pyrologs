@@ -1,10 +1,30 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Dark Pearl",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260326-210912-hi4n",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-03-27T01:09:12.000Z",
+      "dateEnd": "2026-03-27T03:01:05.000Z",
+      "dateLabel": "3/26/2026, 9:09:12 PM - 3/26/2026, 11:01:05 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260326-210912-hi4n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 35,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20260323-210517-vieg",
       "title": "Paralda",
