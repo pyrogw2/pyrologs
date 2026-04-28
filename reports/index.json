@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260427-221526-lnl5",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-04-28T02:15:26.000Z",
+      "dateEnd": "2026-04-28T03:02:13.000Z",
+      "dateLabel": "4/27/2026, 10:15:26 PM - 4/27/2026, 11:02:13 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260427-221526-lnl5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260416-220046-8pou",
       "title": "Paralda",
       "commanders": [
