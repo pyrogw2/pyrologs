@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260429-225723-k49m",
+      "title": "Legion Timebender, Magician Of Drascir",
+      "commanders": [
+        "Legion Timebender",
+        "Magician Of Drascir"
+      ],
+      "dateStart": "2026-04-30T02:57:23.000Z",
+      "dateEnd": "2026-04-30T04:35:33.000Z",
+      "dateLabel": "4/29/2026, 10:57:23 PM - 4/30/2026, 12:35:33 AM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260429-225723-k49m",
+      "summary": {
+        "borderlandsPct": 0.04,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260427-221526-lnl5",
       "title": "Paralda",
       "commanders": [
