@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260601-210740-hnbh",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-06-02T01:07:40.000Z",
+      "dateEnd": "2026-06-02T01:53:47.000Z",
+      "dateLabel": "6/1/2026, 9:07:40 PM - 6/1/2026, 9:53:47 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260601-210740-hnbh",
+      "summary": {
+        "borderlandsPct": 0.8333333333333334,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260528-215711-4nf6",
       "title": "Paralda",
       "commanders": [
