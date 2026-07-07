@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260706-215637-32l4",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-07-07T01:56:37.000Z",
+      "dateEnd": "2026-07-07T02:47:20.000Z",
+      "dateLabel": "7/6/2026, 9:56:37 PM - 7/6/2026, 10:47:20 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260706-215637-32l4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 28,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260622-214520-6i02",
       "title": "Paralda",
       "commanders": [
