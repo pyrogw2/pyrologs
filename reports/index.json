@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-221032-44qp",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-07T02:10:32.000Z",
+      "dateEnd": "2026-08-07T03:04:48.000Z",
+      "dateLabel": "8/6/2026, 10:10:32 PM - 8/6/2026, 11:04:48 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260806-221032-44qp",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260803-221734-xpv0",
       "title": "Paralda",
       "commanders": [
