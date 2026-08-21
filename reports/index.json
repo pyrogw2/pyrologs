@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260820-212004-xpwz",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "guild": {
+        "id": "5DE91D07-EED0-4835-8CD8-B77A3EA3CB1D",
+        "name": "Pyromancers",
+        "tag": "PYRO"
+      },
+      "dateStart": "2026-08-21T01:20:04.000Z",
+      "dateEnd": "2026-08-21T03:02:50.664Z",
+      "dateLabel": "8/20/2026, 9:20:04 PM - 8/20/2026, 11:02:50 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260820-212004-xpwz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260806-221032-44qp",
       "title": "Paralda",
       "commanders": [
