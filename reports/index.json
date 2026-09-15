@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260914-220536-smzu",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "guild": {
+        "id": "5DE91D07-EED0-4835-8CD8-B77A3EA3CB1D",
+        "name": "Pyromancers",
+        "tag": "PYRO"
+      },
+      "dateStart": "2026-09-15T02:05:36.000Z",
+      "dateEnd": "2026-09-15T02:56:51.825Z",
+      "dateLabel": "9/14/2026, 10:05:36 PM - 9/14/2026, 10:56:51 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20260914-220536-smzu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260824-213008-vcub",
       "title": "Modus Gnosis, Paralda",
       "commanders": [
