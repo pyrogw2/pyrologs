@@ -3,7 +3,45 @@
   "axiTheme": "glass",
   "glass": true,
   "glassSurfaces": true,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.9"
+  },
   "entries": [
+    {
+      "id": "20261019-220925-bpyk",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "guild": {
+        "id": "5DE91D07-EED0-4835-8CD8-B77A3EA3CB1D",
+        "name": "Pyromancers",
+        "tag": "PYRO"
+      },
+      "dateStart": "2026-10-20T02:09:25.000Z",
+      "dateEnd": "2026-10-20T03:01:03.352Z",
+      "dateLabel": "10/19/2026, 10:09:25 PM - 10/19/2026, 11:01:03 PM",
+      "url": "https://pyrogw2.github.io/pyrologs/?report=20261019-220925-bpyk",
+      "publishedBy": "pyrogw2",
+      "summary": {
+        "borderlandsPct": 0.7894736842105263,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "World vs World",
+            "value": 8,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 37
+      }
+    },
     {
       "id": "20261001-200952-pjl7",
       "title": "Paralda",
